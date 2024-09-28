@@ -1,0 +1,1 @@
+{"text": " Diego! Diego!", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 4.0, "text": " Diego! Diego!", "tokens": [50364, 16377, 0, 16377, 0, 50564], "temperature": 0.0, "avg_logprob": -0.8896754809788295, "compression_ratio": 0.7647058823529411, "no_speech_prob": 0.1643456667661667}], "language": "Spanish"}
